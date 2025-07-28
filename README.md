@@ -1,2 +1,7 @@
-# Library-System-Management-sql
-SQL-based Library Management System project
+# Library Management System using SQL Project --P2
+
+## Project Overview
+
+**Project Title**: Library Management System  
+**Level**: Intermediate  
+**Database**: `library_db`
