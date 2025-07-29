@@ -41,3 +41,14 @@ This project demonstrates the application of SQL skills in creating and managing
 3.Run the Queries: Use the SQL queries in the analysis_queries.sql file to perform the analysis.
 
 4.Explore and Modify: Customize the queries as needed to explore different aspects of the data or answer additional questions.
+
+## ✍️ Author – Sahil (Aspiring Data Analyst)
+
+This project showcases my growing skills in SQL and data analysis. As a student passionate about analytics and technology, I’m building real-world projects to strengthen my understanding and help others learn too.
+
+If you’d like to connect or learn together, reach out through the platforms below:
+
+- 📸 **Instagram**: Follow me for daily learning updates and data tips  
+- 💼 **LinkedIn**: Let’s connect professionally and grow together in the tech world  
+
+> Thank you for checking out my project and being a part of my learning journey
