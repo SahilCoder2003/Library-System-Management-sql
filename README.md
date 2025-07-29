@@ -510,13 +510,14 @@ This project demonstrates the application of SQL skills in creating and managing
 3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
-## Author - Zero Analyst
+## ✍️ Author – Sahil (Aspiring Data Analyst)
 
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
+This project showcases my growing skills in SQL and data analysis. As a student passionate about analytics and technology, I’m building real-world projects to strengthen my understanding and help others learn too.
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
+If you’d like to connect or learn together, reach out through the platforms below:
 
-Thank you for your interest in this project!
+- 📸 **Instagram**: Follow me for daily learning updates and data tips  
+- 💼 **LinkedIn**: Let’s connect professionally and grow together in the tech world  
+
+
+> Thank you for checking out my project and being a part of my learning journey!
